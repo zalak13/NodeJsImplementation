@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "app.css",
+	"sources": [
+		"../src/browser/scss/app.scss"
+	],
+	"mappings": "CAAA,AAAA,AAAQ,OAAP,AAAA,EAAS;EACR,OAAO,EAAE,IAAK,GACf",
+	"names": []
+}
